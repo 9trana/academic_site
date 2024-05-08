@@ -1,4 +1,3 @@
-
 ---
 title: "Sessional Instructor: PSYCH 253 Social Psychology"
 collection: teaching
