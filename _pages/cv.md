@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-McMaster University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2007 – August 2013<br/>
+**McMaster University**<br/>September 2007 – August 2013<br/>
 1280 Main St W, Hamilton, ON L8S 4L8<br/>
 •	H. B.Sc. Kinesiology<br/>
 	&emsp;o	Minor in Psychology<br/>
@@ -20,58 +20,56 @@ McMaster University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 	&emsp;o	Health and Exercise Psychology<br/>
 	&emsp;o	Thesis: Concrete thinking and ego depletion on exercise and health behaviour<br/>
 
-York University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2013 – August 2015<br/>
+**York University**<br/>September 2013 – August 2015<br/>
 4700 Keele St, Toronto, ON M3J 1P3<br/>
 •	PhD Social Psychology (Dr. Ian McGregor): Years 1-2 (supervisor moved universities)<br/>
 
-University of Waterloo&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2015 – July 2018<br/>
+**University of Waterloo**<br/>September 2015 – July 2018<br/>
 200 University Ave W, Waterloo, ON N2L 3G1<br/>
 •	PhD Social Psychology (Dr. Ian McGregor): Years 3-5 <br/>
 •	Thesis: Concrete (vs. abstract) thinking on approach motivation and behavioural persistence in behaviourally inhibited individuals<br/>
 
-University of Alberta&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;May 2018 – December 2019<br/>
+**University of Alberta**<br/>May 2018 – December 2019<br/>
 116 St & 85 Ave, Edmonton, AB T6G 2R3<br/>
 •	Post-doctoral fellowship in Social Psychology and Neuroscience (Supervisor: Dr. Kyle Nash)<br/>
 •	MITACS project grant: Effects of implementation mindset on motivation to exercise and neural activity<br/>
 
-Center for Addiction and Mental Health&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2020 –Jan 2022<br/>
+**Center for Addiction and Mental Health**<br/>July 2020 –Jan 2022<br/>
 33 Ursula Franklin Street Toronto, ON M5S 2S1<br/>
 •	Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)<br/>
 
 Work experience
 ======
 
-Center for Addiction and Mental Health				Feb 2022 –Present<br/>
+Center for Addiction and Mental Health<br/>				Feb 2022 –Present<br/>
 33 Ursula Franklin Street Toronto, ON M5S 2S1<br/>
 •	Scientific Associate 
 
 
 
-World Health Organization (Regional Office for Europe)		August 2022 – January 2024<br/>
+World Health Organization (Regional Office for Europe)<br/>	August 2022 – January 2024<br/>
 UN City, Marmorvej 51, 2100 København, Denmark<br/>
 •	Statistical and Research Consultant with the Alcohol, Illicit Drugs & Prison Health Programme, WHO European Office for Prevention and Control of Noncommunicable Diseases (NCD Office)
 
 
 Awards and Scholarships
 ======
- McMaster Undergraduate Entrance Scholarship		September 2007 – September 2011<br/>
+**McMaster Undergraduate Entrance Scholarship**<br/>	September 2007 – September 2011<br/>
 •	 Total Awarded: $4,000<br/>
-McMaster Graduate Entrance Scholarship			September 2011 – December 2011<br/>
+**McMaster Graduate Entrance Scholarship**<br/>			September 2011 – December 2011<br/>
 •	Total Awarded: $3,500<br/>
-McMaster Graduate Scholarship					September 2011 – December 2011<br/>
+**McMaster Graduate Scholarship**<br/>				September 2011 – December 2011<br/>
 •	Total Awarded: $1000<br/>
-
-SSHRC Joseph-Armand Bombardier CGS Master’s		September 2012 – August 2013<br/>
+**SSHRC Joseph-Armand Bombardier CGS Master’s**<br/>		September 2012 – August 2013<br/>
 •	Total Awarded: $17,500<br/>
-
-SSHRC Joseph-Armand Bombardier CGS Doctoral		September 2013 – August 2016<br/>
+**SSHRC Joseph-Armand Bombardier CGS Doctoral**<br/>		September 2013 – August 2016<br/>
 •	Total Awarded: $105,000<br/>
-
-SPSP Travel Grant							February 2016<br/>
+**SPSP Travel Grant**<br/>						February 2016<br/>
 •	Total Awarded: $500<br/>
+**MITACS Elevate Postdoctoral Fellow**	<br/>			December 2018<br/>
+ •	Total Awarded: $75,000<br/>
 
-MITACS Elevate Postdoctoral Fellow				December 2018
- 
+
 Skills
 ======
 
