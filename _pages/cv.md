@@ -11,88 +11,82 @@ redirect_from:
 
 Education
 ======
-McMaster University							September 2007 – August 2013
-1280 Main St W, Hamilton, ON L8S 4L8
-•	H. B.Sc. Kinesiology
-o	Minor in Psychology
-•	M.Sc. Kinesiology
-o	Health and Exercise Psychology
-o	Thesis: Concrete thinking and ego depletion on exercise and health behaviour
 
-York University							September 2013 – August 2015
-4700 Keele St, Toronto, ON M3J 1P3
-•	PhD Social Psychology (Dr. Ian McGregor): Years 1-2 (supervisor moved universities)
+McMaster University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2007 – August 2013<br/>
+1280 Main St W, Hamilton, ON L8S 4L8<br/>
+•	H. B.Sc. Kinesiology<br/>
+	&emsp;o	Minor in Psychology<br/>
+•	M.Sc. Kinesiology<br/>
+	&emsp;o	Health and Exercise Psychology<br/>
+	&emsp;o	Thesis: Concrete thinking and ego depletion on exercise and health behaviour<br/>
 
-University of Waterloo						September 2015 – July 2018
-200 University Ave W, Waterloo, ON N2L 3G1
-•	PhD Social Psychology (Dr. Ian McGregor): Years 3-5 
-•	Thesis: Concrete (vs. abstract) thinking on approach motivation and behavioural persistence in behaviourally inhibited individuals
+York University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2013 – August 2015<br/>
+4700 Keele St, Toronto, ON M3J 1P3<br/>
+•	PhD Social Psychology (Dr. Ian McGregor): Years 1-2 (supervisor moved universities)<br/>
 
-University of Alberta 							May 2018 – December 2019
-116 St & 85 Ave, Edmonton, AB T6G 2R3
-•	Post-doctoral fellowship in Social Psychology and Neuroscience (Supervisor: Dr. Kyle Nash)
-•	MITACS project grant: Effects of implementation mindset on motivation to exercise and neural activity
+University of Waterloo&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;September 2015 – July 2018<br/>
+200 University Ave W, Waterloo, ON N2L 3G1<br/>
+•	PhD Social Psychology (Dr. Ian McGregor): Years 3-5 <br/>
+•	Thesis: Concrete (vs. abstract) thinking on approach motivation and behavioural persistence in behaviourally inhibited individuals<br/>
 
-Center for Addiction and Mental Health				July 2020 –Present
-33 Ursula Franklin Street Toronto, ON M5S 2S1
-•	Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)
+University of Alberta&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;May 2018 – December 2019<br/>
+116 St & 85 Ave, Edmonton, AB T6G 2R3<br/>
+•	Post-doctoral fellowship in Social Psychology and Neuroscience (Supervisor: Dr. Kyle Nash)<br/>
+•	MITACS project grant: Effects of implementation mindset on motivation to exercise and neural activity<br/>
+
+Center for Addiction and Mental Health&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2020 –Jan 2022<br/>
+33 Ursula Franklin Street Toronto, ON M5S 2S1<br/>
+•	Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)<br/>
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-Center for Addiction and Mental Health				Feb 2022 –Present
-33 Ursula Franklin Street Toronto, ON M5S 2S1
+Center for Addiction and Mental Health				Feb 2022 –Present<br/>
+33 Ursula Franklin Street Toronto, ON M5S 2S1<br/>
 •	Scientific Associate 
 
 
 
-World Health Organization (Regional Office for Europe)		August 2022 – January 2024
-UN City, Marmorvej 51, 2100 København, Denmark
+World Health Organization (Regional Office for Europe)		August 2022 – January 2024<br/>
+UN City, Marmorvej 51, 2100 København, Denmark<br/>
 •	Statistical and Research Consultant with the Alcohol, Illicit Drugs & Prison Health Programme, WHO European Office for Prevention and Control of Noncommunicable Diseases (NCD Office)
 
 
 Awards and Scholarships
 ======
- McMaster Undergraduate Entrance Scholarship		September 2007 – September 2011
-•	 Total Awarded: $4,000
-McMaster Graduate Entrance Scholarship			September 2011 – December 2011
-•	Total Awarded: $3,500
-McMaster Graduate Scholarship					September 2011 – December 2011
-•	Total Awarded: $1000
+ McMaster Undergraduate Entrance Scholarship		September 2007 – September 2011<br/>
+•	 Total Awarded: $4,000<br/>
+McMaster Graduate Entrance Scholarship			September 2011 – December 2011<br/>
+•	Total Awarded: $3,500<br/>
+McMaster Graduate Scholarship					September 2011 – December 2011<br/>
+•	Total Awarded: $1000<br/>
 
-SSHRC Joseph-Armand Bombardier CGS Master’s		September 2012 – August 2013
-•	Total Awarded: $17,500
+SSHRC Joseph-Armand Bombardier CGS Master’s		September 2012 – August 2013<br/>
+•	Total Awarded: $17,500<br/>
 
-SSHRC Joseph-Armand Bombardier CGS Doctoral		September 2013 – August 2016
-•	Total Awarded: $105,000
+SSHRC Joseph-Armand Bombardier CGS Doctoral		September 2013 – August 2016<br/>
+•	Total Awarded: $105,000<br/>
 
-CUPE Graduate Studies Bursary					February 2014
-•	Total Awarded: $1180
-
-SPSP Travel Grant							February 2016
-•	Total Awarded: $500
+SPSP Travel Grant							February 2016<br/>
+•	Total Awarded: $500<br/>
 
 MITACS Elevate Postdoctoral Fellow				December 2018
  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+Research Design<br/>
+Data Analysis<br/>
+Scientific Writing<br/>
+Statistics<br/>
+Literature Reviews<br/>
+Coding (R, MATLAB, SQL, Python)<br/>
 
 
 Research Contributions
 ======
 
-Publications
+**Publications**
 
 
 
@@ -170,7 +164,7 @@ Radisauskas, R., Kim, K. V., Lange, S., Liutkute-Gumarov, V., Mesceriakova-Veliu
 
 Lange, S., Jiang, H., Bagge, C., Probst, C., Tran, A., & Rehm, J. (2022). Gender-specific risk relationship between heavy alcohol use/alcohol use disorders and suicidal thoughts and behavior among adults in the United States over time. Social Psychiatry and Psychiatric Epidemiology
 
-Published Abstracts
+**Published Abstracts**
 
 Bray, S. R., Martin Ginis, K. A., Cairney, J., Marinoff-Shupe, D., Pettit, A., Saville, P. D., Graham, J. D., & Tran, A. (2012). “They believe I can do it . . . , and this is how I know!”: Youth sport participants’ perception of verbal and non-verbal feedback on relation-inferred self-efficacy. Journal of Sport and Exercise Psychology, 34, s206.
 
@@ -182,17 +176,17 @@ Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012). Exploring relatio
 
 Tran, A. & Bray, S. R. (2013). Interaction effects between ego depletion and construal level theory in an endurance handgrip squeeze. Journal of Sport and Exercise Psychology, 35, s119.
 
-Presentations
+**Presentations**
 
-	Refereed Conference Presentations
+**Refereed Conference Presentations**
 
 Bray, S. R., Martin Ginis, K. A., Cairney, J., Marinoff-Shupe, D., Pettit, A., Saville, P. D., Graham, J. D., & Tran, A. (2012).  “They believe I can do it…, and this is how I know!”: Youth sport participants’ perceptions of verbal and non-verbal feedback on relation-inferred self-efficacy.  Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
-	Graham, J. D., Tran, A., & Bray, S.R. (2012).  It wears me out just imagining it!  Effortful imagery leads to diminished physical endurance performance. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
+Graham, J. D., Tran, A., & Bray, S.R. (2012).  It wears me out just imagining it!  Effortful imagery leads to diminished physical endurance performance. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
-	Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The coaches’ perspectives. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
+Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The coaches’ perspectives. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
-	Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The athletes’ perspectives.  Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
+Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The athletes’ perspectives.  Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
 Bray, S. R., Graham, J. D., Saville, P. D., Tran, A., Martin Ginis, K. A., Cairney, J., Marinoff-Shupe, D., Pettit, A. (2013) “You Believe in Me?... Maybe I Can!” Interpersonal Feedback Increases Relation-inferred Self-efficacy (RISE) and Effortful Task Performance. Paper submitted to Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, New Orleans, LA.
 
