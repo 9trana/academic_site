@@ -1,12 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Alcohol control policies add to secular trends in all-cause mortality rates in young adults"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-jpts-acmort.pdf
+excerpt: 'This paper studied the effects of alcohol control policies on all-cause mortality employing interrupted time series analysis and joinpoint analyses.'
+date: 2021-07-23
+venue: 'Scientific Reports 11(1)'
+paperurl: 'https://doi.org/10.1038/s41598-021-94562-1'
+citation: 'Tran, A., Manthey, J., Lange, S., Jiang, H., Štelemėkas, M., Liutkutė-Gumarov, V., Meščeriakova-Veliulienė, O., Petkevičienė, J., Radišauskas, R., Telksnys, T. & Rehm, J. (2021) Alcohol control policies add to secular trends in all-cause mortality rates in young adults. Scientific Reports, 11(1), 15127.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
