@@ -5,13 +5,13 @@ collection: portfolio
 ---
 
 # Visualization of mortality rates between 4 countries<br/>
-![ ](images/linegraph_anim.gif)
+![alt text](https://github.com/9trana/sitev2/blob/master/_portfolio/images/linegraph_anim.gif?raw=true)
 
 # Visualization of changes in cancer knowledge following exposure to experimental manipulation<br/>
-![ ](images/knowgraph_anim.gif)
+![alt text](https://github.com/9trana/sitev2/blob/master/_portfolio/images/knowgraph_anim.gif?raw=true)
 
 # Breakdown of income groups in a large dataset (scalable)<br/>
-![ ](images/edu.png)
+![alt text](https://github.com/9trana/sitev2/blob/master/_portfolio/images/edu.png?raw=true)
 
 # Interaction effect of experimental condition on a personality moderator<br/>
-![ ](images/exper_int.png)
+![alt text](https://github.com/9trana/sitev2/blob/master/_portfolio/images/exper_int.png?raw=true)
