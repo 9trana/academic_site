@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Data visualizations"
+excerpt: "Animated graphs, pie graphs, key result presentation<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Visualization of mortality rates between 4 countries<br/>
+<img src='/images/linegraph_anim.gif'>
+
+# Visualization of changes in cancer knowledge following exposure to experimental manipulation<br/>
+<img src='/images/knowgraph_anim.gif'>
+
+# Breakdown of income groups in a large dataset (scalable)<br/>
+<img src='/images/edu.png'>
+
+# Interaction effect of experimental condition on a personality moderator<br/>
+<img src='/images/exper_int.png'>
