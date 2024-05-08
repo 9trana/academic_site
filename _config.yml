@@ -12,7 +12,7 @@ title                    : "Alex Tran - About me"
 title_separator          : "-"
 name                     : &name "Alex Tran"
 description              : &description "PhD"
-url                      : https://9trana.github.io/9trana # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://9trana.github.io/sitev2 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages.github.io"
 
