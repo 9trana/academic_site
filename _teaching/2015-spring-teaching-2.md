@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Sessional Instructor: MSTH 252 Research Concepts"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "College Course"
+permalink: /teaching/2024-ResCon.pdf
+venue: "Humber College, Allied Health"
+date: 2024-01-04
+location: "Toronto, ON"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+--Delivered lecture material on research concepts for 50 college students enrolled in a Massage Therapy program
+--Met educational goals for students to ensure continuity in the Massage Therapy program at Humber College
+--Employed a flipped classroom, probing student engagement with regular knowledge checks and independent learning
+--Developed assessments that maintained relevance to massage therapy students (clinicians)
+--Encouraged peer-to-peer networking and collaboration for assessments
