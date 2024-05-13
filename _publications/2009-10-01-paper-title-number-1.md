@@ -1,7 +1,7 @@
 ---
 title: "Neural processes in antecedent anxiety modulate risk-taking behavior"
 collection: publications
-permalink: /publication/2021-eeg-BART.pdf
+permalink: /publications/2021-eeg-BART.pdf
 excerpt: 'This paper analyzed the effect of economic threat (experimental design or A/B testing) on EEG activity, localized using sLORETA.'
 date: 2021-01-29
 venue: 'Scientific Reports'
