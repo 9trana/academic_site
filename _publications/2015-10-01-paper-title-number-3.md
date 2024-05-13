@@ -1,7 +1,7 @@
 ---
 title: "The temporal trend of cause-specific mortality: comparing Estonia and Lithuania, 2001 – 2019"
 collection: publications
-permalink: /publication/2022-ltuest-comp.pdf
+permalink: /publications/2022-ltuest-comp.pdf
 excerpt: 'This paper explored the differences between various causes of death between Lithuania and Estonia. Two large datasets were merged and organized by specific causes of death. A breakdown of all-cause mortality as a function of each cause was analyzed.'
 date: 2022-10-04
 venue: 'BMC Public Health'
