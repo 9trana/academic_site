@@ -1,7 +1,7 @@
 ---
 title: "Alcohol control policies add to secular trends in all-cause mortality rates in young adults"
 collection: publications
-permalink: /publication/2021-jpts-acmort.pdf
+permalink: /publications/2021-jpts-acmort.pdf
 excerpt: 'This paper studied the effects of alcohol control policies on all-cause mortality employing interrupted time series analysis and joinpoint analyses.'
 date: 2021-07-23
 venue: 'Scientific Reports'
