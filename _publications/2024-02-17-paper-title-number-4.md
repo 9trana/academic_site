@@ -1,7 +1,7 @@
 ---
 title: "Higher power dynamics: How meaning search and self-transcendence inspire approach motivation and magnanimity"
 collection: publications
-permalink: /publication/2022-mnapp-jesp.pdf
+permalink: /publications/2022-mnapp-jesp.pdf
 excerpt: 'This paper was a multi-method approach (large online survey, EEG, behavioural measures in-lab) analyzing how meaning-making can increase approach motivation.'
 date: 2022-09-01
 venue: 'Journal of Experimental Psychology'
