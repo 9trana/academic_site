@@ -10,7 +10,7 @@ collection: portfolio
 # MATLAB code that runs an in-lab experiment (Stroop Task) and records participant response data<br/>
 
 
-# SQL query that pulls a data, filters for outliers based on response time, and joins with another table<br/>
+# SQL query that pulls publicly available data, filters for outliers based on response time, and joins with another table based on ID<br/>
 
 
 # SPSS syntax that renames multiple variables and runs moderated linear regression for multiple outcome variables<br/>
