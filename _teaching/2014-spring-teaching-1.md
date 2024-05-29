@@ -2,7 +2,7 @@
 title: "Sessional Instructor: PSYCH 253 Social Psychology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-16-SocPsych.pdf
+permalink: /teaching/2015-socpsych.pdf
 venue: "University of Waterloo, Psychology"
 date: 2016-09-01
 location: "Waterloo, ON"
