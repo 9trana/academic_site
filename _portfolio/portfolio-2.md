@@ -8,7 +8,7 @@ collection: portfolio
 [Download here](https://github.com/9trana/sitev2/blob/master/_portfolio/code/rscript_sample.R?raw=true)
 
 # MATLAB code that runs an in-lab experiment (Stroop Task) and records participant response data<br/>
-[Download here](https://github.com/9trana/sitev2/blob/master/_portfolio/code/MATLAB_sample.M?raw=true)
+[Download here](https://github.com/9trana/sitev2/blob/master/_portfolio/code/MATLAB_sample.m?raw=true)
 
 # SQL query that pulls publicly available data, filters for outliers based on response time, and joins with another table based on ID<br/>
 [Download here](https://github.com/9trana/sitev2/blob/master/_portfolio/code/SQL_sample.txt?raw=true)
