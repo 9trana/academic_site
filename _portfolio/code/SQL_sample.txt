@@ -1,0 +1,189 @@
+
+library(RSQLite)
+
+#clear dummy file if exists
+file.remove("market_research.db")
+
+# Create a connection to a new SQLite database
+conn <- dbConnect(SQLite(), dbname = "market_research.db")
+
+# Create consumers table
+dbExecute(conn, "
+  CREATE TABLE consumers (
+    consumer_id INTEGER PRIMARY KEY,
+    first_name TEXT,
+    last_name TEXT,
+    age INTEGER,
+    gender TEXT,
+    email TEXT
+  )
+")
+
+# Create purchases table
+dbExecute(conn, "
+  CREATE TABLE purchases (
+    purchase_id INTEGER PRIMARY KEY,
+    consumer_id INTEGER,
+    product_name TEXT,
+    purchase_date TEXT,
+    amount REAL,
+    FOREIGN KEY(consumer_id) REFERENCES consumers(consumer_id)
+  )
+")
+
+# Create ads table
+dbExecute(conn, "
+  CREATE TABLE ads (
+    ad_id INTEGER PRIMARY KEY,
+    consumer_id INTEGER,
+    ad_shown BOOLEAN,
+    ad_clicked BOOLEAN,
+    time_spent INTEGER,
+    item_purchased BOOLEAN,
+    FOREIGN KEY(consumer_id) REFERENCES consumers(consumer_id)
+  )
+")
+
+# Insert fake data into consumers table
+set.seed(123) # for reproducibility
+first_names <- c('John', 'Jane', 'Alice', 'Bob', 'Eve', 'Charlie', 'David', 'Grace', 'Hank', 'Ivy')
+last_names <- c('Doe', 'Smith', 'Johnson', 'Lee', 'Brown', 'Wilson', 'Taylor', 'Anderson', 'Thomas', 'Jackson')
+genders <- c('Male', 'Female')
+consumers_data <- data.frame(
+  consumer_id = 1:50,
+  first_name = sample(first_names, 50, replace = TRUE),
+  last_name = sample(last_names, 50, replace = TRUE),
+  age = sample(18:70, 50, replace = TRUE),
+  gender = sample(genders, 50, replace = TRUE),
+  email = replicate(50, paste0(paste(sample(letters, 8, replace = TRUE), collapse = ""), "@example.com"))
+)
+
+for (i in 1:nrow(consumers_data)) {
+  dbExecute(conn, sprintf("
+    INSERT INTO consumers (consumer_id, first_name, last_name, age, gender, email) VALUES
+    (%d, '%s', '%s', %d, '%s', '%s')",
+                          consumers_data$consumer_id[i],
+                          consumers_data$first_name[i],
+                          consumers_data$last_name[i],
+                          consumers_data$age[i],
+                          consumers_data$gender[i],
+                          consumers_data$email[i]
+  ))
+}
+
+# Insert fake data into purchases table
+products <- c('Laptop', 'Smartphone', 'Tablet', 'Headphones', 'Monitor', 'Keyboard', 'Mouse', 'Printer', 'Camera', 'Smartwatch')
+for (i in 1:50) {
+  dbExecute(conn, sprintf("
+    INSERT INTO purchases (consumer_id, product_name, purchase_date, amount) VALUES
+    (%d, '%s', '2024-05-%02d', %.2f)",
+                          sample(1:50, 1),
+                          sample(products, 1),
+                          sample(1:31, 1),
+                          sample(c(0, 1), 1),
+                          runif(1, 50, 1000)
+  ))
+}
+
+# Insert fake data into ads table
+for (i in 1:50) {
+  dbExecute(conn, sprintf("
+    INSERT INTO ads (consumer_id, ad_shown, ad_clicked, time_spent, item_purchased) VALUES
+    (%d, %d, %d, %d, %d)",
+                          sample(1:50, 1),
+                          sample(c(0, 1), 1),
+                          sample(c(0, 1), 1),
+                          sample(1:300, 1),
+                          sample(c(0, 1), 1)
+  ))
+}
+
+#insert fake outlier data
+query<-"UPDATE ads
+SET time_spent = 7500
+WHERE ad_id = 9 AND consumer_id = 40;"
+
+dbExecute(conn, query)
+
+#### Simulated data created ####
+
+#create mean and sd time spent
+dbExecute(conn, "ALTER TABLE ads ADD mean_timespent FLOAT;")
+
+dbExecute(conn, "ALTER TABLE ads ADD sd_timespent FLOAT;")
+
+#compute mean/sd of time spent looking at ads
+query<-"SELECT 
+AVG(time_spent) AS mean_timespent,
+STDEV(time_spent) AS sd_timespent
+FROM
+ads;"
+
+meansd_vals<-dbGetQuery(conn, query)
+
+print(meansd_vals)
+
+#add values as repeating values to the table
+query_update <- "
+    UPDATE ads
+    SET mean_timespent = (SELECT AVG(time_spent) FROM ads),
+        sd_timespent = (SELECT STDEV(time_spent) FROM ads);
+"
+
+dbExecute(conn, query_update)
+
+#histogram of ages
+query<-"SELECT FLOOR(consumers.age/10)*10 AS age_range, COUNT(age) AS frequency
+FROM consumers
+GROUP BY FLOOR(age / 10) * 10;"
+
+dbGetQuery(conn, query)
+
+#check updated table with means and sd added
+updated_ads <- dbGetQuery(conn, "SELECT * FROM ads")
+
+print(updated_ads)
+
+#filter based on time_spent, 3SDs greater or less than mean
+
+query<-"CREATE TABLE filtered_ads AS
+SELECT *
+  FROM ads
+WHERE time_spent >= ((SELECT AVG(time_spent)FROM ads) - 3*(SELECT STDEV(time_spent) FROM ads))
+AND time_spent <= ((SELECT AVG(time_spent)FROM ads) + 3*(SELECT STDEV(time_spent) FROM ads));"
+
+dbExecute(conn, query)
+
+#compute NEW mean/sd of time spent looking at ads
+query<-"SELECT 
+AVG(time_spent) AS mean_timespent,
+STDEV(time_spent) AS sd_timespent
+FROM
+filtered_ads;"
+
+meansd_vals<-dbGetQuery(conn, query)
+
+print(meansd_vals)
+
+#add values as repeating values to the table
+query_update <- "
+    UPDATE filtered_ads
+    SET mean_timespent = (SELECT AVG(time_spent) FROM filtered_ads),
+        sd_timespent = (SELECT STDEV(time_spent) FROM filtered_ads);
+"
+
+
+#sample query; consumers that clicked the add but did not purchase from ad
+query <- "
+SELECT consumers.*, purchases.*, filtered_ads.ad_id, filtered_ads.ad_shown, filtered_ads.ad_clicked, filtered_ads.time_spent, filtered_ads.item_purchased
+FROM consumers 
+JOIN filtered_ads ON consumers.consumer_id = filtered_ads.consumer_id
+JOIN purchases ON consumers.consumer_id = purchases.consumer_id
+WHERE filtered_ads.ad_clicked = 1 AND filtered_ads.item_purchased=0;
+"
+dbGetQuery(conn, query)
+
+# Close the database connection
+dbDisconnect(conn)
+
+
