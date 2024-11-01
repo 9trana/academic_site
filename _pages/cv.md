@@ -96,32 +96,32 @@ Behavioural Research Consultant with the Alcohol, Illicit Drugs & Prison Health 
 ### Awards and Scholarships
 
 **MITACS Elevate Postdoctoral Fellow**  
-&nbsp;&nbsp;&nbsp;&nbsp;December 2018  
-&nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $75,000  
+December 2018  
+• Total Awarded: $75,000  
 
 **SPSP Travel Grant**  
-&nbsp;&nbsp;&nbsp;&nbsp;February 2016  
-&nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $500  
+February 2016  
+• Total Awarded: $500  
 
 **SSHRC Joseph-Armand Bombardier CGS Doctoral**  
-&nbsp;&nbsp;&nbsp;&nbsp;September 2013 – August 2016  
-&nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $105,000  
+September 2013 – August 2016  
+• Total Awarded: $105,000  
 
 **SSHRC Joseph-Armand Bombardier CGS Master’s**  
-&nbsp;&nbsp;&nbsp;&nbsp;September 2012 – August 2013  
-&nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $17,500  
+September 2012 – August 2013  
+• Total Awarded: $17,500  
 
 **McMaster Graduate Entrance Scholarship**  
-&nbsp;&nbsp;&nbsp;&nbsp;September 2011 – December 2011  
-&nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $3,500  
+September 2011 – December 2011  
+• Total Awarded: $3,500  
 
 **McMaster Graduate Scholarship**  
-&nbsp;&nbsp;&nbsp;&nbsp;September 2011 – December 2011  
-&nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $1,000  
+September 2011 – December 2011  
+• Total Awarded: $1,000  
 
 **McMaster Undergraduate Entrance Scholarship**  
-&nbsp;&nbsp;&nbsp;&nbsp;September 2007 – September 2011  
-&nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $4,000  
+September 2007 – September 2011  
+• Total Awarded: $4,000  
 
 Skills
 ======
