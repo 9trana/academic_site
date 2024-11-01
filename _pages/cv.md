@@ -50,13 +50,27 @@ Education
 Work experience
 ======
 
-**Center for Addiction and Mental Health**		August 2020 –Present<br/>
+<!-- CAMH-->
+<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
+    <strong>Center for Addiction and Mental Health</strong>
+    <span>August 2020 –Present</span>
+</div>
+<p style="margin: 0;">
 250 College Street Toronto, ON M5T 1R8<br/>
-•	Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)
+•	Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)<br/>
 •	Scientific Associate (February 2022)
+•	Foremost expert on the effect of alcohol policy on alcohol consumption and harm– used statistical/economic models (interrupted time series analyses, linear regressions and ARIMA models in R) to predict policy effects (alcohol taxation), leading to 29 scientific publications (white papers)
+•	Created ETL pipeline for large datasets used by internal and external stakeholders — maintained over 12 datasets of various datatypes (dplyr, stringr, lubridate, ggplot2)
+•	Used system and design thinking to refine models, experiment with analysis types, and health indicators, to isolate the largest and most meaningful outcomes of alcohol policy
+•	Communicated results to stakeholders with mixed professional backgrounds (international team members)
 
 
-**World Health Organization (Regional Office for Europe)** August 2022 – January 2024<br/>
+<!-- WHO-->
+<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
+    <strong>World Health Organization (Regional Office for Europe)</strong>
+    <span>August 2022 – January 2024</span>
+</div>
+<p style="margin: 0;">
 UN City, Marmorvej 51, 2100 København, Denmark<br/>
 •	Behavioural Research Consultant with the Alcohol, Illicit Drugs & Prison Health Programme, WHO European Office for Prevention and Control of Noncommunicable Diseases (NCD Office)<br/>
 •	As a consultant, used advanced research skills to review scientific literature on the motivation and decision-making processes of consuming alcohol <br/>
@@ -64,8 +78,11 @@ UN City, Marmorvej 51, 2100 København, Denmark<br/>
 •	Used advanced statistical models to determine the effects of labels on cancer knowledge–analyses were also stratified by demographic variables (SES, sex, education, and country)<br/>
 •	Created a data preprocessing pipeline to ingest survey data over an 8 month period—incoming data could be analyzed, and figures and reports were continuously updated<br/>
 
-
-**University of Alberta**					May 2018 – December 2019<br/>
+<!-- U of A-->
+<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
+    <strong>University of Alberta</strong>
+    <span>May 2018 – December 2019</span>
+</div>
 116 St & 85 Ave, Edmonton, AB T6G 2R3<br/>
 •	Post-doctoral fellowship in Social Psychology and Neuroscience (Supervisor: Dr. Kyle Nash)<br/>
 •	MITACS project grant: Effects of implementation mindset on motivation to exercise and neural activity<br/>
@@ -113,6 +130,7 @@ Skills
 
 Research Design<br/>
 Data Analysis<br/>
+Data Visualization<br/>
 Scientific Writing<br/>
 Statistics<br/>
 Literature Reviews<br/>
@@ -122,25 +140,25 @@ Coding (R, MATLAB, SQL, Python)<br/>
 Teaching and Mentoring
 ======
 
-- **Sessional Instructor**  
+**Sessional Instructor**  
   Allied Health, Humber College  
   January 2024 – April 2024  
   &nbsp;&nbsp;&nbsp;&nbsp;• MSTH 252: Research Concepts in Massage Therapy  
 
-- **Sessional Instructor**  
+**Sessional Instructor**  
   Department of Psychology, University of Waterloo  
   September 2016 – April 2017  
   &nbsp;&nbsp;&nbsp;&nbsp;• PSYCH 253 Social Psychology  
 
-- **Teaching Assistant**  
+**Teaching Assistant**  
   Department of Psychology, University of Waterloo  
   January 2016 – April 2016  
   &nbsp;&nbsp;&nbsp;&nbsp;• PSYCH 253 Social Psychology  
 
-- **Teaching Assistant**  
+**Teaching Assistant**  
   Department of Psychology, York University  
   January 2014 – April 2015  
-  &nbsp;&nbsp;&nbsp;&nbsp;• PSYC 2130 Personality Psychology  
+  • PSYC 2130 Personality Psychology  
 
 - **Teaching Assistant**  
   Department of Kinesiology, McMaster University  
@@ -305,15 +323,15 @@ Tran, A. & Bray, S. R. (2013). Interaction effects between ego depletion and con
 
 Presentations
 
-	Refereed Conference Presentations
+Refereed Conference Presentations
 
 Bray, S. R., Martin Ginis, K. A., Cairney, J., Marinoff-Shupe, D., Pettit, A., Saville, P. D., Graham, J. D., & Tran, A. (2012).  “They believe I can do it…, and this is how I know!”: Youth sport participants’ perceptions of verbal and non-verbal feedback on relation-inferred self-efficacy.  Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
-	Graham, J. D., Tran, A., & Bray, S.R. (2012).  It wears me out just imagining it!  Effortful imagery leads to diminished physical endurance performance. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
+Graham, J. D., Tran, A., & Bray, S.R. (2012).  It wears me out just imagining it!  Effortful imagery leads to diminished physical endurance performance. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
-	Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The coaches’ perspectives. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
+Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The coaches’ perspectives. Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
-	Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The athletes’ perspectives.  Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
+Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012).  Exploring relational efficacy beliefs within youth coach-athlete relationships in developmental sports: The athletes’ perspectives.  Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
 Bray, S. R., Graham, J. D., Saville, P. D., Tran, A., Martin Ginis, K. A., Cairney, J., Marinoff-Shupe, D., Pettit, A. (2013) “You Believe in Me?... Maybe I Can!” Interpersonal Feedback Increases Relation-inferred Self-efficacy (RISE) and Effortful Task Performance. Paper submitted to Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, New Orleans, LA.
 
@@ -326,7 +344,6 @@ Tran, A., & Bray, S. R., (2014) Construal levels and Self-control in Effortful C
 Tran, A., McGregor, I., Hayes, J., Eftekhari, E., & Zeifman, R., (2015, February) Harnessing the power of uncertainty: Concrete Construal Heightens Performance and Approach Motivation. Oral Presentation at the Annual Meeting of The Society for Personality Social Psychology, Long Beach, CA. 
 
 Tran, A., & McGregor, I (2016, February) “How” to push through: Concreteness increases performance and a neural marker of approach motivation for anxious people. Poster Presentation at the Annual Meeting of The Society for Personality Social Psychology, San Diego, CA.
-
 
 Sharpinskyi, C., Tran, A., Klackl, J., Agroskin., D., Jonas., E., Eftekhari, E., Eghbali, N., McGregor, I (2016, February) P3a as a Neural Marker of Anxiety. Poster Presentation at the Annual Meeting of The Society for Personality Social Psychology, San Diego, CA
 
