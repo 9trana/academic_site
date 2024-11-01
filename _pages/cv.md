@@ -57,8 +57,8 @@ Work experience
 </div>
 <p style="margin: 0;">
 250 College Street Toronto, ON M5T 1R8<br/>
-•	Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)<br/>
-•	Scientific Associate (February 2022)
+Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)<br/>
+Scientific Associate (February 2022)<br/>
 •	Foremost expert on the effect of alcohol policy on alcohol consumption and harm– used statistical/economic models (interrupted time series analyses, linear regressions and ARIMA models in R) to predict policy effects (alcohol taxation), leading to 29 scientific publications (white papers)
 •	Created ETL pipeline for large datasets used by internal and external stakeholders — maintained over 12 datasets of various datatypes (dplyr, stringr, lubridate, ggplot2)
 •	Used system and design thinking to refine models, experiment with analysis types, and health indicators, to isolate the largest and most meaningful outcomes of alcohol policy
@@ -72,7 +72,7 @@ Work experience
 </div>
 <p style="margin: 0;">
 UN City, Marmorvej 51, 2100 København, Denmark<br/>
-•	Behavioural Research Consultant with the Alcohol, Illicit Drugs & Prison Health Programme, WHO European Office for Prevention and Control of Noncommunicable Diseases (NCD Office)<br/>
+Behavioural Research Consultant with the Alcohol, Illicit Drugs & Prison Health Programme, WHO European Office for Prevention and Control of Noncommunicable Diseases (NCD Office)<br/>
 •	As a consultant, used advanced research skills to review scientific literature on the motivation and decision-making processes of consuming alcohol <br/>
 •	Collected data using large experimental surveys to test the effect of alcohol warning labels on over 19,000 participants from 14 European countries –developed, and validated scales to measure participant cognitions/behaviour (Cronbach’s alpha, factor analysis)<br/>
 •	Used advanced statistical models to determine the effects of labels on cancer knowledge–analyses were also stratified by demographic variables (SES, sex, education, and country)<br/>
@@ -122,8 +122,6 @@ UN City, Marmorvej 51, 2100 København, Denmark<br/>
 **McMaster Undergraduate Entrance Scholarship**  
 &nbsp;&nbsp;&nbsp;&nbsp;September 2007 – September 2011  
 &nbsp;&nbsp;&nbsp;&nbsp;• Total Awarded: $4,000  
-
-
 
 Skills
 ======
@@ -206,11 +204,8 @@ Teaching and Mentoring
 Research Contributions
 ======
 
-**Publications**
-
-
-2024
-
+**2024**
+======
 Tran., A., Jiang, H., Lange, S., Rehm, J., (2024) Trend of alcohol use disorder as a percentage of all-cause mortality in North America. BMC Research Notes https://doi.org/10.1186/s13104-024-06882-w
 
 Tran, A., Jiang, H., Lange, S., Štelemėkas, M., Stumbrys, D., Tamutienė, I., & Rehm, J. (2024). Changes in self-reported alcohol consumption at high and low consumption in the wake of the COVID-19 pandemic: A test of the polarization hypothesis. medRxiv, 2024-07.
@@ -229,7 +224,8 @@ Neufeld, M., Kokole, D., Correia, D., Ferreira-Borges, C., Olsen, A., Tran, A., 
 
 Rehm, J., Rovira, P., Jiang, H., Lange, S., Shield, K. D., Tran, A., & Štelemėkas, M. (2024). Trends of alcohol-attributable deaths in Lithuania 2001–2021: epidemiology and policy conclusions. BMC public health, 24(1), 774.
 
-2023
+**2023**
+======
 
 Kokole, D., Ferreira-Borges, C., Galea, G., Tran, A., Rehm, J., & Neufeld, M. (2023). Public awareness of the alcohol-cancer link in the EU and UK: a scoping review. European journal of public health, 33(6), 1128-1147.
 
@@ -256,7 +252,8 @@ Jiang, H., Tran, A., Petkevičienė, J., Štelemėkas, M., Lange, S., & Rehm, J.
 
 Kim, K. V., Rehm, J., Feng, X., Jiang, H., Manthey, J., Radišauskas, R., Štelemėkas, M., Tran, A., Zafar, A., & Lange, S. (2023). Impact of alcohol control policy on hemorrhagic and ischemic stroke mortality rates in Lithuania: An interrupted time series analysis. Impacto de políticas de control de alcohol en las tasas de mortalidad por ictus hemorrágico e isquémico en Lituania: Análisis de series temporales interrumpidas. Adicciones, 0(0), 1828. Advance online publication. https://doi.org/10.20882/adicciones.1828
 
-2022
+**2022**
+======
 
 Galkus, L., Lange, S., Liutkutė-Gumarov, V., Miščikienė, L., Petkevičienė, J., Rehm, J., Štelemėkas, M., Tran, A., & Vaitkevičiūtė, J. (2022). The Comprehensive Alcohol Advertising Ban in Lithuania: A Case Study of Social Media. International Journal of Environmental Research and Public Health, 19(19), 12398.
 
@@ -286,7 +283,8 @@ Tran, A., Jiang, H., Lange, S., Manthey, J., Štelemėkas, M., Badaras, R., ... 
 
 Zafar, A., Rehm, J., Feng, X., Jiang, H., Kim, K. V., Manthey, J., Radišauskas, R., Štelemėkas, M., Petkevičienė, J., Tran, A., & Lange, S. (2022). The impact of alcohol control policy on pneumonia mortality in Lithuania: an interrupted time-series analysis. Epidemiology & Infection, 150.
 
-2021
+**2021**
+======
 Jiang, H., Lange.S, Tran, A., Imtiaz, S., & Rehm, J. (2021). Determining the sex-specific distributions of average daily alcohol consumption using a machine learning method: Is there a separate distribution for people with alcohol dependence? Population Health Metrics. 19(1), 1-11.
 
 Lange, S., Jiang, H., Štelemėkas, M., Tran, A., Cherpitel, C., Giesbrecht, N., Goštautaitė Midttun N., Jasilionis, D., Kaplan, M.S., Manthey, J., Xuan, Z., & Rehm, J. (2021). Evaluating the impact of alcohol policy on suicide mortality: a sex-specific time-series analysis for Lithuania. Archives of Suicide Research, [Epub ahead of print Nov 13] doi: 10.1080/13811118.2021.1999873.
@@ -303,13 +301,16 @@ Tran, A., Jiang, H., Lange, S., Livingston, M., Manthey, J., Neufeld, M., Room, 
 
  Tran, A., Manthey, J., Lange, S., Jiang, H., Štelemėkas, M., Liutkutė-Gumarov, V., Meščeriakova-Veliulienė, O., Petkevičienė, J., Radišauskas, R., Telksnys, T., & Rehm, J. (2021). Can alcohol policies add to secular trends in mortality? Effects of alcohol control policy on premature mortality rates in young adults. Scientific Reports, 11(1), 1-9
 
-2020
+**2020**
+======
 Nash, K., Tran, A., Leota, J., & Scott, A. (2020). Economic threat heightens conflict detection: sLORETA evidence. Social cognitive and affective neuroscience, 15(9), 981-990.
 
-2017
+**2017**
+======
 Eftekhari, E., Tran, A., McGregor,, I., (2017). Self-Distancing and Non-Judgmental Awareness Increase Approach Motivation in Distressed Individuals. Personality and Individual Differences, 119, 236-241.
 
 Published Abstracts
+======
 
 Bray, S. R., Martin Ginis, K. A., Cairney, J., Marinoff-Shupe, D., Pettit, A., Saville, P. D., Graham, J. D., & Tran, A. (2012). “They believe I can do it . . . , and this is how I know!”: Youth sport participants’ perception of verbal and non-verbal feedback on relation-inferred self-efficacy. Journal of Sport and Exercise Psychology, 34, s206.
 
@@ -322,8 +323,7 @@ Saville, P. D., Bray, S. R., Graham, J. D., & Tran, A. (2012). Exploring relatio
 Tran, A. & Bray, S. R. (2013). Interaction effects between ego depletion and construal level theory in an endurance handgrip squeeze. Journal of Sport and Exercise Psychology, 35, s119.
 
 Presentations
-
-Refereed Conference Presentations
+======
 
 Bray, S. R., Martin Ginis, K. A., Cairney, J., Marinoff-Shupe, D., Pettit, A., Saville, P. D., Graham, J. D., & Tran, A. (2012).  “They believe I can do it…, and this is how I know!”: Youth sport participants’ perceptions of verbal and non-verbal feedback on relation-inferred self-efficacy.  Paper presented at the Annual Meeting of the North American Society for the Psychology of Sport and Physical Activity, Honolulu, HI.
 
