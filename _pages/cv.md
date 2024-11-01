@@ -93,7 +93,8 @@ Behavioural Research Consultant with the Alcohol, Illicit Drugs & Prison Health 
 •	Created a protocol that analyzed and provided real-time feedback on brainwave activity – Adapted existing MATLAB code and packages to create custom visuals for EEG neurofeedback (bcilab, eeglab, BrainVision Analyzer)<br/>
 
 
-### Awards and Scholarships
+Awards and Scholarships
+======
 
 **MITACS Elevate Postdoctoral Fellow**  
 December 2018  
