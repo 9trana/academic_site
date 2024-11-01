@@ -55,7 +55,6 @@ Work experience
     <strong>Center for Addiction and Mental Health</strong>
     <span>August 2020 –Present</span>
 </div>
-<p style="margin: 0;">
 250 College Street Toronto, ON M5T 1R8<br/>
 Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)<br/>
 Scientific Associate (February 2022)<br/>
@@ -70,7 +69,6 @@ Scientific Associate (February 2022)<br/>
     <strong>World Health Organization (Regional Office for Europe)</strong>
     <span>August 2022 – January 2024</span>
 </div>
-<p style="margin: 0;">
 UN City, Marmorvej 51, 2100 København, Denmark<br/>
 Behavioural Research Consultant with the Alcohol, Illicit Drugs & Prison Health Programme, WHO European Office for Prevention and Control of Noncommunicable Diseases (NCD Office)<br/>
 •	As a consultant, used advanced research skills to review scientific literature on the motivation and decision-making processes of consuming alcohol <br/>
