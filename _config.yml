@@ -12,7 +12,7 @@ title                    : "Alex Tran - About me"
 title_separator          : "-"
 name                     : &name "Alex Tran"
 description              : &description "PhD"
-url                      : https://9trana.github.io/sitev2 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://9trana.github.io/academic_site # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Alex Tran, PhD"
   pronouns         : # example: "he/him"  
-  bio              : "Social scientist, researcher, data-specialist"
+  bio              : "Researcher, data-specialist"
   location         : "Hamilton, ON, Canada"
-  employer         : "Centre for Addiction and <br/> Mental Health"
+  employer         : "McMaster University"
   uri              : # URL
   email            : "9trana@gmail.com" 
 
