@@ -9,205 +9,119 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-<!-- University of Waterloo -->
-<div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
-    <strong>University of Waterloo</strong>
-    <span>September 2015 – July 2018</span>
-</div>
-<p style="margin: 0;">
-    200 University Ave W, Waterloo, ON N2L 3G1<br/>
-    • PhD Social Psychology (Dr. Ian McGregor): Years 3-5 <br/>
-    • Thesis: Concrete (vs. abstract) thinking on approach motivation and behavioural persistence in behaviourally inhibited individuals
-</p>
+# Education
 
-<!-- York University -->
-<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
-    <strong>York University</strong>
-    <span>September 2013 – August 2015</span>
-</div>
-<p style="margin: 0;">
-    4700 Keele St, Toronto, ON M3J 1P3<br/>
-    • PhD Social Psychology (Dr. Ian McGregor): Years 1-2 (supervisor moved universities)
-</p>
+### University of Waterloo <span style="float:right;">Sept 2015 – Jul 2018</span>
+200 University Ave W, Waterloo, ON N2L 3G1  
+- PhD Social Psychology (Supervisor: Dr. Ian McGregor), Years 3–5  
+- Thesis: *Concrete (vs. abstract) thinking on approach motivation and behavioural persistence in behaviourally inhibited individuals*
 
-<!-- McMaster University -->
-<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
-    <strong>McMaster University</strong>
-    <span>September 2007 – August 2013</span>
-</div>
-<p style="margin: 0;">
-    1280 Main St W, Hamilton, ON L8S 4L8<br/>
-    • H. B.Sc. Kinesiology<br/>
-    &emsp;o Minor in Psychology<br/>
-    • M.Sc. Kinesiology<br/>
-    &emsp;o Health and Exercise Psychology<br/>
-    &emsp;o Thesis: Concrete thinking and ego depletion on exercise and health behaviour
-</p>
+### York University <span style="float:right;">Sept 2013 – Aug 2015</span>
+4700 Keele St, Toronto, ON M3J 1P3  
+- PhD Social Psychology (Supervisor: Dr. Ian McGregor), Years 1–2 (supervisor moved universities)
 
+### McMaster University <span style="float:right;">Sept 2007 – Aug 2013</span>
+1280 Main St W, Hamilton, ON L8S 4L8  
+- H. B.Sc. Kinesiology  
+  - Minor in Psychology  
+- M.Sc. Kinesiology (Health and Exercise Psychology)  
+  - Thesis: *Concrete thinking and ego depletion on exercise and health behaviour*
 
-Work experience
-======
+---
 
-<!-- CAMH-->
-<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
-    <strong>Center for Addiction and Mental Health</strong>
-    <span>August 2020 –Present</span>
-</div>
-250 College Street Toronto, ON M5T 1R8<br/>
-Post-doctoral fellow (Supervisors: Dr. Jürgen Rehm & Dr. Shannon Lange)<br/>
-Scientific Associate (February 2022)<br/>
-•	Foremost expert on the effect of alcohol policy on alcohol consumption and harm– used statistical/economic models (interrupted time series analyses, linear regressions and ARIMA models in R) to predict policy effects (alcohol taxation), leading to 29 scientific publications (white papers)
-•	Created ETL pipeline for large datasets used by internal and external stakeholders — maintained over 12 datasets of various datatypes (dplyr, stringr, lubridate, ggplot2)
-•	Used system and design thinking to refine models, experiment with analysis types, and health indicators, to isolate the largest and most meaningful outcomes of alcohol policy
-•	Communicated results to stakeholders with mixed professional backgrounds (international team members)
+# Work Experience
 
+### Centre for Addiction and Mental Health <span style="float:right;">Aug 2020 – Nov 2024</span>
+250 College Street, Toronto, ON M5T 1R8  
+**Data Scientist**  
+- Foremost expert on the effect of alcohol policy on alcohol consumption and harm—used statistical/economic models (interrupted time series, linear regression, ARIMA in R) to predict policy effects (alcohol taxation), resulting in 29 publications.  
+- Created ETL pipelines for large datasets used by internal and external stakeholders—maintained 12+ datasets (dplyr, stringr, lubridate, ggplot2).  
+- Applied system/design thinking to refine models, isolate impactful policy outcomes, and identify meaningful health indicators.  
+- Communicated results to diverse stakeholder audiences, including international collaborators.
 
-<!-- WHO-->
-<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
-    <strong>World Health Organization (Regional Office for Europe)</strong>
-    <span>August 2022 – January 2024</span>
-</div>
-UN City, Marmorvej 51, 2100 København, Denmark<br/>
-Behavioural Research Consultant with the Alcohol, Illicit Drugs & Prison Health Programme, WHO European Office for Prevention and Control of Noncommunicable Diseases (NCD Office)<br/>
-•	As a consultant, used advanced research skills to review scientific literature on the motivation and decision-making processes of consuming alcohol <br/>
-•	Collected data using large experimental surveys to test the effect of alcohol warning labels on over 19,000 participants from 14 European countries –developed, and validated scales to measure participant cognitions/behaviour (Cronbach’s alpha, factor analysis)<br/>
-•	Used advanced statistical models to determine the effects of labels on cancer knowledge–analyses were also stratified by demographic variables (SES, sex, education, and country)<br/>
-•	Created a data preprocessing pipeline to ingest survey data over an 8 month period—incoming data could be analyzed, and figures and reports were continuously updated<br/>
+### World Health Organization – Regional Office for Europe <span style="float:right;">Aug 2022 – Jan 2024</span>
+UN City, Marmorvej 51, 2100 København, Denmark  
+**Behavioural Research Consultant**
+- Reviewed scientific literature on motivation and decision-making in alcohol consumption.  
+- Collected data via large experimental surveys testing alcohol warning label effects on 19,000+ participants in 14 countries; developed and validated scales (Cronbach’s alpha, factor analysis).  
+- Applied advanced statistical models to measure label effects on cancer knowledge, stratified by SES, sex, education, and country.  
+- Built an automated data preprocessing pipeline enabling continuous analysis and figure/report updates.
 
-<!-- U of A-->
-<div style="display: flex; justify-content: space-between; margin-top: 16px; margin-bottom: 8px;">
-    <strong>University of Alberta</strong>
-    <span>May 2018 – December 2019</span>
-</div>
-116 St & 85 Ave, Edmonton, AB T6G 2R3<br/>
-•	Post-doctoral fellowship in Social Psychology and Neuroscience (Supervisor: Dr. Kyle Nash)<br/>
-•	MITACS project grant: Effects of implementation mindset on motivation to exercise and neural activity<br/>
-•	Managed a team of undergraduate students, graduate students, and research assistants – mentored and directed lab members on independent research projects and use of sophisticated EEG research equipment<br/>
-•	Supervised 3 projects on the effects of threats (economic uncertainty, fear of death, general conflict) on brainwave activity – Ensured timelines for each project were met (deadlines for submission of ethics protocols, data collection scheduling, data analysis and manuscript preparation)<br/>
-•	Secured external funding – created a client relationship with an industry partner (GoodLife Fitness) to test the success of a novel business product (developed product idea – EEG neurofeedback for gym-goers, collected data, liaised with business partner)<br/>
-•	Augmented existing expertise on human behaviour and cognition, by reviewing literature on brainwave activity as they relate to motivation and cognition<br/>
-•	Created a protocol that analyzed and provided real-time feedback on brainwave activity – Adapted existing MATLAB code and packages to create custom visuals for EEG neurofeedback (bcilab, eeglab, BrainVision Analyzer)<br/>
+### University of Alberta <span style="float:right;">May 2018 – Dec 2019</span>
+116 St & 85 Ave, Edmonton, AB T6G 2R3  
+**Post-doctoral Researcher**
+- Post-doctoral fellowship in Social Psychology and Neuroscience (Supervisor: Dr. Kyle Nash).  
+- MITACS project grant: Effects of implementation mindset on exercise motivation and neural activity.  
+- Managed and mentored undergraduate and graduate researchers on EEG projects.  
+- Supervised 3 threat-related EEG studies, meeting ethics, data, and manuscript deadlines.  
+- Secured external funding with GoodLife Fitness to test EEG neurofeedback for gym-goers.  
+- Developed custom MATLAB visualizations for real-time EEG neurofeedback (bcilab, eeglab, BrainVision Analyzer).
 
+---
 
-Awards and Scholarships
-======
+# Awards and Scholarships
 
-**MITACS Elevate Postdoctoral Fellow**  
-December 2018  
-• Total Awarded: $75,000  
+| Award | Date | Amount |
+|-------|------|--------|
+| MITACS Elevate Postdoctoral Fellow | Dec 2018 | $75,000 |
+| SPSP Travel Grant | Feb 2016 | $500 |
+| SSHRC CGS Doctoral | Sept 2013 – Aug 2016 | $105,000 |
+| SSHRC CGS Master’s | Sept 2012 – Aug 2013 | $17,500 |
+| McMaster Graduate Entrance Scholarship | Sept – Dec 2011 | $3,500 |
+| McMaster Graduate Scholarship | Sept – Dec 2011 | $1,000 |
+| McMaster Undergraduate Entrance Scholarship | Sept 2007 – Sept 2011 | $4,000 |
 
-**SPSP Travel Grant**  
-February 2016  
-• Total Awarded: $500  
+---
 
-**SSHRC Joseph-Armand Bombardier CGS Doctoral**  
-September 2013 – August 2016  
-• Total Awarded: $105,000  
+# Skills
 
-**SSHRC Joseph-Armand Bombardier CGS Master’s**  
-September 2012 – August 2013  
-• Total Awarded: $17,500  
+- Research Design  
+- Data Analysis  
+- Data Visualization  
+- Scientific Writing  
+- Statistics  
+- Literature Reviews  
+- Coding: R, MATLAB, SQL, Python  
 
-**McMaster Graduate Entrance Scholarship**  
-September 2011 – December 2011  
-• Total Awarded: $3,500  
+---
 
-**McMaster Graduate Scholarship**  
-September 2011 – December 2011  
-• Total Awarded: $1,000  
+# Teaching & Mentoring
 
-**McMaster Undergraduate Entrance Scholarship**  
-September 2007 – September 2011  
-• Total Awarded: $4,000  
+### Sessional Instructor
+- **McMaster University – Kinesiology** (Jan 2025 – Apr 2025)  
+  *KIN 701: Research Design and Statistics in Kinesiology*  
+- **Humber College – Allied Health** (Jan 2024 – Present)  
+  *MSTH 252: Research Concepts in Massage Therapy*  
+- **University of Waterloo – Psychology** (Sept 2016 – Apr 2017)  
+  *PSYCH 253: Social Psychology*
 
-Skills
-======
+### Teaching Assistant
+- **University of Waterloo – Psychology** (Jan – Apr 2016)  
+  *PSYCH 253: Social Psychology*  
+- **York University – Psychology** (Jan 2014 – Apr 2015)  
+  *PSYC 2130: Personality Psychology*  
+- **McMaster University – Kinesiology** (Sept 2011 – Aug 2013)  
+  *KIN 1YY3, KIN 3E03, KIN 3U03, KIN 2CC3*
 
-Research Design<br/>
-Data Analysis<br/>
-Data Visualization<br/>
-Scientific Writing<br/>
-Statistics<br/>
-Literature Reviews<br/>
-Coding (R, MATLAB, SQL, Python)<br/>
-
-
-Teaching and Mentoring
-======
-
-**Sessional Instructor**  
-  Allied Health, Humber College  
-  January 2024 – April 2024  
-  &nbsp;&nbsp;&nbsp;&nbsp;• MSTH 252: Research Concepts in Massage Therapy  
-
-**Sessional Instructor**  
-  Department of Psychology, University of Waterloo  
-  September 2016 – April 2017  
-  &nbsp;&nbsp;&nbsp;&nbsp;• PSYCH 253 Social Psychology  
-
-**Teaching Assistant**  
-  Department of Psychology, University of Waterloo  
-  January 2016 – April 2016  
-  &nbsp;&nbsp;&nbsp;&nbsp;• PSYCH 253 Social Psychology  
-
-**Teaching Assistant**  
-  Department of Psychology, York University  
-  January 2014 – April 2015  
-  • PSYC 2130 Personality Psychology  
-
-- **Teaching Assistant**  
-  Department of Kinesiology, McMaster University  
-  September 2011 – August 2013  
-  &nbsp;&nbsp;&nbsp;&nbsp;• KIN 1YY3 Human Anatomy and Physiology II  
-  &nbsp;&nbsp;&nbsp;&nbsp;• KIN 3E03 Neural Control of Human Movement  
-  &nbsp;&nbsp;&nbsp;&nbsp;• KIN 3U03 Human Growth and Maturation  
-  &nbsp;&nbsp;&nbsp;&nbsp;• KIN 2CC3 Cardiorespiratory Metabolic Exercise Physiology  
-			
-
-### University of Alberta: Co-supervised Undergraduate Theses
-- **Shafa Mazid**  2019  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Thesis in preparation (purpose and meaning)  
-
-- **Mikayla Almeida**  2019  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Thesis in preparation (perception, consciousness, and behavior)  
-
-- **Alex Munn**  2019  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Thesis in preparation (attachment styles, trust, and disclosure)  
-
-- **Amanda Chao**  2018  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Anger as a moderator of threat and P3a amplitude  
-
-### York University: Co-supervised Undergraduate Theses
-- **Constantine Sharpinskyi**  2015  
-  &nbsp;&nbsp;&nbsp;&nbsp;• P3a: A neural marker of vigilance  
-
-- **Richard Zeifman**  2014  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Religion, anxiety, and the preference for consistency  
-
-### McMaster University: Co-supervised Undergraduate Theses
-- **Preston Williams**  2012  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Relationship inferred self-efficacy (RISE) increases kids' sport participation  
-
-### Graduate Teaching and Learning Program
-- University of Alberta  May 2019  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Teaching Bootcamp Level 2: Developing a teaching dossier  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Center for Teaching and Learning Monthly Seminar attendee  
-
-### Fundamentals of University Teaching Workshops  
-- University of Waterloo  April 2016  
-  &nbsp;&nbsp;&
+### Co-supervised Undergraduate Theses
+**University of Alberta** (2018–2019): Shafa Mazid, Mikayla Almeida, Alex Munn, Amanda Chao  
+**York University** (2014–2015): Constantine Sharpinskyi, Richard Zeifman  
+**McMaster University** (2012): Preston Williams  
 
 
 Research Contributions
 ======
 
+**2025**
+======
+Tran., A., Jiang, H., Lange, S.,Llamosas-Falcon, L.,Petkevičienė, J., Radišauskas, R., Štelemėkas, M., Rehm, J., (2024) How does taxation affect liver cirrhosis across age groups? An analysis of alcohol control policies on liver cirrhosis outcomes in Lithuania between 2001 and 2022. Alcohol and Alcoholism [https://doi.org/10.1186/s13104-024-06882-w](https://doi.org/10.1093/alcalc/agaf034)
+
+Tran, A., Jiang, H., Lange, S., Štelemėkas, M., Stumbrys, D., Tamutienė, I., & Rehm, J. (accepted). Changes in self-reported alcohol consumption at high and low consumption in the wake of the COVID-19 pandemic: A test of the polarization hypothesis. Frontiers in Psychiatry.
+
+
 **2024**
 ======
 Tran., A., Jiang, H., Lange, S., Rehm, J., (2024) Trend of alcohol use disorder as a percentage of all-cause mortality in North America. BMC Research Notes https://doi.org/10.1186/s13104-024-06882-w
-
-Tran, A., Jiang, H., Lange, S., Štelemėkas, M., Stumbrys, D., Tamutienė, I., & Rehm, J. (2024). Changes in self-reported alcohol consumption at high and low consumption in the wake of the COVID-19 pandemic: A test of the polarization hypothesis. medRxiv, 2024-07.
 
 Correia, D., Kokole, D., Rehm, J., Tran, A., Ferreira-Borges, C., Galea, G., ... & Neufeld, M. (2024). Effect of alcohol health warning labels on knowledge related to the ill effects of alcohol on cancer risk and their public perceptions in 14 European countries: an online survey experiment. The Lancet Public Health, 9(7), e470-e480.
 
