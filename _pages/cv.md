@@ -11,26 +11,23 @@ redirect_from:
 
 # Education
 
-### University of Waterloo <span style="float:right;">Sept 2015 – Jul 2018</span>
-200 University Ave W, Waterloo, ON N2L 3G1  
-- PhD Social Psychology (Supervisor: Dr. Ian McGregor), Years 3–5  
-- Thesis: *Concrete (vs. abstract) thinking on approach motivation and behavioural persistence in behaviourally inhibited individuals*
-
-### York University <span style="float:right;">Sept 2013 – Aug 2015</span>
-4700 Keele St, Toronto, ON M3J 1P3  
-- PhD Social Psychology (Supervisor: Dr. Ian McGregor), Years 1–2 (supervisor moved universities)
-
+### University of Waterloo & York University <span style="float:right;">Sept 2013 – Jul 2018</span>
+Ph.D Social Psychology (Supervisor: Dr. Ian McGregor)
 ### McMaster University <span style="float:right;">Sept 2007 – Aug 2013</span>
-1280 Main St W, Hamilton, ON L8S 4L8  
-- H. B.Sc. Kinesiology  
-  - Minor in Psychology  
-- M.Sc. Kinesiology (Health and Exercise Psychology)  
-  - Thesis: *Concrete thinking and ego depletion on exercise and health behaviour*
+B.Sc. Kinesiology  
+M.Sc. Kinesiology (Health and Exercise Psychology)  
 
 ---
 
 # Work Experience
-
+### JD Power & Associates <span style="float:right;">Aug 2025 – Present</span>
+Troy, MI (Remote)
+**Data Scientist** 
+- Conducted high level statistical analyses of consumer satisfaction surveys (Python, SAS)
+- Worked in a cross-functional team of professionals delivering high quality benchmarking reports and data to business clients
+- Main resource for statistics and data analysis for projects that procured over $1,000,000 in revenue
+- Regularly handled 6+ complex projects simultaneously
+  
 ### Centre for Addiction and Mental Health <span style="float:right;">Aug 2020 – Nov 2024</span>
 250 College Street, Toronto, ON M5T 1R8  
 **Data Scientist**  
@@ -81,7 +78,7 @@ UN City, Marmorvej 51, 2100 København, Denmark
 - Scientific Writing  
 - Statistics  
 - Literature Reviews  
-- Coding: R, MATLAB, SQL, Python  
+- Coding: R, MATLAB, SQL, Python, SAS 
 
 ---
 
@@ -114,9 +111,9 @@ Research Contributions
 
 **2025**
 ======
-Tran., A., Jiang, H., Lange, S.,Llamosas-Falcon, L.,Petkevičienė, J., Radišauskas, R., Štelemėkas, M., Rehm, J., (2024) How does taxation affect liver cirrhosis across age groups? An analysis of alcohol control policies on liver cirrhosis outcomes in Lithuania between 2001 and 2022. Alcohol and Alcoholism [https://doi.org/10.1186/s13104-024-06882-w](https://doi.org/10.1093/alcalc/agaf034)
+Tran., A., Jiang, H., Lange, S.,Llamosas-Falcon, L.,Petkevičienė, J., Radišauskas, R., Štelemėkas, M., Rehm, J., (2025) How does taxation affect liver cirrhosis across age groups? An analysis of alcohol control policies on liver cirrhosis outcomes in Lithuania between 2001 and 2022. Alcohol and Alcoholism [https://doi.org/10.1186/s13104-024-06882-w](https://doi.org/10.1093/alcalc/agaf034)
 
-Tran, A., Jiang, H., Lange, S., Štelemėkas, M., Stumbrys, D., Tamutienė, I., & Rehm, J. (accepted). Changes in self-reported alcohol consumption at high and low consumption in the wake of the COVID-19 pandemic: A test of the polarization hypothesis. Frontiers in Psychiatry.
+Tran, A., Jiang, H., Lange, S., Štelemėkas, M., Stumbrys, D., Tamutienė, I., & Rehm, J. (2025). Changes in self-reported alcohol consumption at high and low consumption in the wake of the COVID-19 pandemic: A test of the polarization hypothesis. Frontiers in Psychiatry.
 
 
 **2024**
